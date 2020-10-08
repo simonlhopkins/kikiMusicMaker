@@ -20,3 +20,5 @@ python3 main.py "American Football - Never Meant.mp3" 0
 video will be saved as "final.mp4"
 
 enjoy:)
+
+example video of result here: https://youtu.be/69RpHn_ss2Y
